@@ -1,1 +1,8 @@
+import pandas as pd
+import numpy as np
 
+df = pd.read_csv('mental_disorder.csv', index_col='index')
+df
+
+df.dropna(inplace=True)
+df
