@@ -1,12 +1,20 @@
 # Data Visualization 
 ###
-![image](https://user-images.githubusercontent.com/121418382/236658246-fc566c3a-83ed-4692-a188-53e10a6ee758.png)
+<img width="447" alt="image" src="https://user-images.githubusercontent.com/121338127/236686297-444d83d5-6541-4e76-a20b-3dfc58bf4e66.png">
+
 ### Predict Schizophrenia in Indonesia
-![image](https://user-images.githubusercontent.com/121418382/236658278-133631bf-fa77-4ac9-9502-fdafbd5e7a42.png)
+<img width="813" alt="image" src="https://user-images.githubusercontent.com/121338127/236686351-7f739001-c472-437b-b0d9-74de8773df8a.png">
 
 ### COMMONNESS OF MENTAL DISORDERS BY YEAR IN ALL COUNTRIES
 ![image](https://user-images.githubusercontent.com/121418382/236658299-4ad68907-e0d5-4b6e-8333-7a28fa4d7eb4.png)
 ![image](https://user-images.githubusercontent.com/121418382/236658308-93177e2f-f0c8-4a6c-b095-3f63effe21d2.png)
+
+###
+<img width="748" alt="image" src="https://user-images.githubusercontent.com/121338127/236686447-addc5af9-3c09-4ad6-bdf4-0afdeb14519b.png">
+
+###
+### MENTAL DISORDERS IN SOUTHEAST ASIA 2015
+<img width="525" alt="image" src="https://user-images.githubusercontent.com/121338127/236686592-b423808d-21d4-43de-a6f0-fd5d088d46fa.png">
 ###
 ![image](https://user-images.githubusercontent.com/121418382/236658501-bb5f3ec3-378c-422c-85d7-047897f3d361.png)
 ###
